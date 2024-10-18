@@ -7,7 +7,6 @@ export default {
 		extend: {
 			fontFamily: {
 				sans: 'var(--font-sans)',
-				mono: 'var(--font-mono)',
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
