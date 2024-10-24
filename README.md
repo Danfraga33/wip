@@ -1,40 +1,15 @@
-# Welcome to Remix!
+## User Journey:
 
-- 📖 [Remix docs](https://remix.run/docs)
+1. User scans a QR code
+2. Form popups
+3. User Inserts Email/Phone Number in Form & Submits
+4. Information is uploaded to a CRM
+5. CRON Job is created - weekly friday
+6. Campaign is displayed on Dashboard
 
-## Development
+#### Tools
 
-Run the dev server:
-
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+- Make.com
+- Phatom Builder: PAID (Lead collection)
+- Anymail finder
+- Instantly: Lead Automated Outreach
